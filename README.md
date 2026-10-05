@@ -1,0 +1,2 @@
+# SimpleOS
+ Hobby kernel project
